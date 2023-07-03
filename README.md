@@ -1,18 +1,18 @@
-### Greetings,
+## Greetings,
 
 I working on projects I like in a hope to make something to be proud of.
 I happen to have some experience in [Java], [Lua](just a bit), [C#], [Python], [JS] and [Rust]. C++ does not exist.
 
-## I'm in search for an intership right now,
+### I'm in search for an intership right now,
 so if you happen to have such an offer, here is [my cv].
 
-## I am a proud participant of a [Summer 2023 Rust Bootcamp],
+### I am a proud participant of a [Summer 2023 Rust Bootcamp],
 and I'm really optimistic about learning Rust for now. Hope that **will** last for a <s>long</s>i64 time.
 
-## Recently I've finished [this].
+### Recently I've finished [this].
 Hope someone would find it useful 🤷‍♂️
 
-# That's it for now. Hope to update this page soon...
+#### That's it for now. Hope to update this page soon...
 
 
 [Java]: https://github.com/Dzuchun/CurveToFurrier
