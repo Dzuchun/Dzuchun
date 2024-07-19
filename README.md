@@ -1,3 +1,11 @@
+# Hello,
+
+The details below hold my bio, but it has become _severly outdated_, so I decided to hide it like that :idk:.
+
+I'll find some time soon to update it, I promise!
+
+<details>
+  
 ## Greetings,
 
 I working on projects I like in a hope to make something to be proud of.
@@ -13,6 +21,7 @@ and I'm really optimistic about learning Rust for now. Hope that **will** last f
 Hope someone would find it useful 🤷‍♂️
 
 #### That's it for now. Hope to update this page soon...
+</details>
 
 
 [Java]: https://github.com/Dzuchun/CurveToFurrier
