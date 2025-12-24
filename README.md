@@ -5,4 +5,4 @@
 >
 > No action is required on your part.
 
-No Github, you can't gaslight me into thinking it wasn't real. Yes, it was - remember, I'm emails
+No Github, you can't gaslight me into thinking it wasn't real. Yes, it was - I remember you're emails
